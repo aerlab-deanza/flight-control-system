@@ -2,7 +2,7 @@
 
 System-level quadcopter UAC development repository (mechanical + electrical + software + validation).
 
-# What this is
+## What this is
 This repo is a shared engineering workspace for building a quadcopter UAV from first principles:
 - Mechanical design assets (CAD and fabrication exports)
 - Electronics and power documentation (wiring, power budget, integration notes)
@@ -10,7 +10,7 @@ This repo is a shared engineering workspace for building a quadcopter UAV from f
 - Simulation and analysis tooling (for test, tuning, and validation)
 - Documentation and test evidence (architecture notes, procedures, logs)
 
-# Repository map (beginning)
+## Repository map (beginning)
 - `hardware/` - CAD, BOM, electronics/power docs
 - `firmware/` - embedded flight software
 - `simulator/` - dynamics + sensor simulation
