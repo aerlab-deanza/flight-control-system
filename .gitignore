@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Logs and data
+logs/*.csv
+logs/*.bin
+!logs/README.md
+!logs/example_*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+firmware/build/
+firmware/.pio/
+hardware/*.bak
+hardware/*-cache/
+hardware/*.kicad_pcb-bak
+
+# Plots (keep examples only)
+simulator/plots/*.png
+!simulator/plots/example_*.png
