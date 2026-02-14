@@ -27,10 +27,9 @@
 
 ## State Estimation
 
-**Complementary Filter:**
-- Integrate gyro for short-term accuracy
-- Correct with accel-derived angle for long-term stability
-- α = 0.98 (typical)
+**Madgwick Filter:**
+- Quaternions
+- Better than complementary filter
 
 ## Filtering
 
