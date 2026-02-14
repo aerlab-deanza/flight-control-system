@@ -1,6 +1,6 @@
 # flight-control-system
 
-System-level quadcopter UAC development repository (mechanical + electrical + software + validation).
+End-to-end quadcopter UAC development repository (mechanical + electrical + software + validation).
 
 ## What this is
 This repo is a shared engineering workspace for building a quadcopter UAV from first principles:
