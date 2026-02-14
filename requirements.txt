@@ -1,0 +1,5 @@
+# For simulator
+numpy >= 1.24.0
+matplotlib >= 3.7.0
+pyyaml >= 6.0
+pytest >= 7.3.0
